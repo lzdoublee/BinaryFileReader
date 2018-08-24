@@ -1,0 +1,27 @@
+2018/08/24 09:20:58 AM
+file001.dat is a dupluicate of file: file003.dat
+
+24 August 2018 09:20:58 AM
+file001.dat is a dupluicate of file: file004.dat
+
+24 August 2018 09:21:34 AM
+file001.dat is a dupluicate of file: file003.dat
+
+24 August 2018 09:21:34 AM
+file001.dat is a dupluicate of file: file004.dat
+
+24 August 2018 10:13:24 AM
+file001.dat is a dupluicate of file: file003.dat
+
+24 August 2018 10:13:24 AM
+file001.dat is a dupluicate of file: file004.dat
+
+24 August 2018 10:13:42 AM
+file001.dat is a dupluicate of file: file003.dat
+
+24 August 2018 10:13:42 AM
+file001.dat is a dupluicate of file: file004.dat
+
+24 August 2018 10:13:42 AM
+file006.dat is a dupluicate of file: file007.dat
+

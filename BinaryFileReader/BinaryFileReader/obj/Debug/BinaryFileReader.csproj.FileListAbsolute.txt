@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\BinaryFileReader\BinaryFileReader\bin\Debug\BinaryFileReader.exe.config
+C:\Users\Admin\source\repos\BinaryFileReader\BinaryFileReader\bin\Debug\BinaryFileReader.exe
+C:\Users\Admin\source\repos\BinaryFileReader\BinaryFileReader\bin\Debug\BinaryFileReader.pdb
+C:\Users\Admin\source\repos\BinaryFileReader\BinaryFileReader\obj\Debug\BinaryFileReader.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\BinaryFileReader\BinaryFileReader\obj\Debug\BinaryFileReader.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BinaryFileReader\BinaryFileReader\obj\Debug\BinaryFileReader.exe
+C:\Users\Admin\source\repos\BinaryFileReader\BinaryFileReader\obj\Debug\BinaryFileReader.pdb
